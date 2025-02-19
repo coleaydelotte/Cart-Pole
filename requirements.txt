@@ -1,0 +1,8 @@
+gym
+gymnasium
+tensorflow
+numpy==1.26.4
+matplotlib
+pandas
+keras
+pygame
